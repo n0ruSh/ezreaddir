@@ -1,0 +1,19 @@
+{
+  "name": "ezreaddir",
+  "version": "1.0.0",
+  "description": "read directory recursively in an asynchronous way",
+  "main": "index.js",
+  "bin": {
+    "ezreaddir": "bin/readdir.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "readdir",
+    "asyncs",
+    "recursive"
+  ],
+  "author": "n0ruSh",
+  "license": "MIT"
+}
